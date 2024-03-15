@@ -1,0 +1,261 @@
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "breadcrumbs",
+      "settings": {}
+    },
+    "main-product": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "show_products_rating": true
+          }
+        },
+        "cdbb867d-6845-4db0-90b1-a622ecefb5fa": {
+          "type": "text",
+          "settings": {
+            "text": "Stock Number:",
+            "text_style": "style_body"
+          }
+        },
+        "5e575a29-da3e-4f35-9a00-d1ac852d80b5": {
+          "type": "sku",
+          "settings": {
+            "sku_style": "subheading"
+          }
+        },
+        "text_g8PWT4": {
+          "type": "text",
+          "settings": {
+            "text": "Trim:",
+            "text_style": "style_body"
+          }
+        },
+        "text_ibLjCV": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.custom.trim | metafield_text }}",
+            "text_style": "subheading"
+          }
+        },
+        "34e91d69-89d6-4d8b-923b-f93a2ac7e246": {
+          "type": "text",
+          "settings": {
+            "text": "Color:",
+            "text_style": "style_body"
+          }
+        },
+        "b9f7cc59-3069-4137-b296-7647c7a022e6": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.custom.exterior_color.value }}",
+            "text_style": "subheading"
+          }
+        },
+        "dfd06320-98ac-4690-bc33-bab956395af3": {
+          "type": "text",
+          "settings": {
+            "text": "Location:",
+            "text_style": "style_body"
+          }
+        },
+        "d64a8b71-052a-47cb-ac90-ab10b2c8ba20": {
+          "type": "text",
+          "settings": {
+            "text": "FORMEV Minnesota - Rockville Showroom",
+            "text_style": "subheading"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "4fd23485-293f-46a0-8a4c-34d0e25ea41b": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        },
+        "0b3e272b-c86a-4dba-946c-c6912251371c": {
+          "type": "description",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "cdbb867d-6845-4db0-90b1-a622ecefb5fa",
+        "5e575a29-da3e-4f35-9a00-d1ac852d80b5",
+        "text_g8PWT4",
+        "text_ibLjCV",
+        "34e91d69-89d6-4d8b-923b-f93a2ac7e246",
+        "b9f7cc59-3069-4137-b296-7647c7a022e6",
+        "dfd06320-98ac-4690-bc33-bab956395af3",
+        "d64a8b71-052a-47cb-ac90-ab10b2c8ba20",
+        "buy_buttons",
+        "4fd23485-293f-46a0-8a4c-34d0e25ea41b",
+        "0b3e272b-c86a-4dba-946c-c6912251371c"
+      ],
+      "settings": {
+        "full_width": false,
+        "show_taxes_included": false,
+        "thumbnail_position": "left",
+        "hide_variants": false,
+        "lightbox": true,
+        "enable_video_looping": false
+      }
+    },
+    "058a55e3-4f9f-415d-beca-0fdf115d0e90": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16335886844079__058a55e3-4f9f-415d-beca-0fdf115d0e90-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Standard Features:",
+            "heading_size": "h4",
+            "text": "<p>DOT Glass Windshield with Wiper<\/p><p>LED Headlights & Brakelights<\/p><p>Side Mirrors with Turn Signal Light Indicators<\/p><p>12V Power Outlet<\/p><p>2 USB Outlets<\/p><p>4 Cupholders<\/p><p>Flipdown folding backseat<\/p><p>Storage Compartment Under Rear Seat<\/p><p>Luxury Stearing Wheel<\/p><p>Luxury Seats<\/p><p>Front & Rear Disc Brakes<\/p><p><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16335886844079__058a55e3-4f9f-415d-beca-0fdf115d0e90-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Equipped Options:",
+            "heading_size": "h4",
+            "text": "<p>{{ product.metafields.custom.battery_type.value }}<\/p><p>{{ product.metafields.custom.tires.value }}<\/p><p>{{ product.metafields.custom.display.value }}<\/p><p>{{ product.metafields.custom.bluetooth_soundbar.value }}<\/p><p>{{ product.metafields.custom.backup_camera.value }}<\/p><p>{{ product.metafields.custom.seatbelts.value }}<\/p><p>{{ product.metafields.custom.front_cargo_basket.value }}<\/p><p>{{ product.metafields.custom.grill_guard.value }}<\/p><p>{{ product.metafields.custom.side_steps.value }}<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16335886844079__058a55e3-4f9f-415d-beca-0fdf115d0e90-column-1",
+        "template--16335886844079__058a55e3-4f9f-415d-beca-0fdf115d0e90-column-2"
+      ],
+      "custom_css": [],
+      "settings": {
+        "heading": "",
+        "description": "",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "mobile_swipe": false,
+        "text_alignment": "center",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "05dbc82e-1405-47e9-82ea-52629a3d0bc6": {
+      "type": "tabbed-content",
+      "blocks": {
+        "template--16335886844079__05dbc82e-1405-47e9-82ea-52629a3d0bc6-tab-1": {
+          "type": "tab",
+          "settings": {
+            "tab_label": "Performance",
+            "icon": "lightning_bolt",
+            "text": "<p>Top Speed: 19 mph<br\/>Cruising Range: 45-55 Miles<br\/>Load Carrying Capacity: 800 lbs<\/p>",
+            "text_columns": "2",
+            "page": ""
+          }
+        },
+        "template--16335886844079__05dbc82e-1405-47e9-82ea-52629a3d0bc6-tab-2": {
+          "type": "tab",
+          "settings": {
+            "tab_label": "Dimensions",
+            "icon": "box",
+            "text": "<p><strong>Vehicle Size (inches): <\/strong>115\"L x 52\"W x 84\"H<\/p><p><strong>Seating Capacity: <\/strong>4 People<\/p><p><strong>Front and Read Tread (inches): <\/strong>Front 38.5\", Rear 42.5\"<\/p><p><strong>Wheelbase (inches): <\/strong>66.5\"<\/p><p><strong>Ground Clearance (inches): <\/strong>Main Frame 15\", Rear Axle 7.5\"<\/p><p><strong>Turning Radius (feet): <\/strong>11.5'<\/p><p><strong>Wheel Size (inches): <\/strong>12\" Aluminum Rims<\/p>",
+            "text_columns": "2",
+            "page": ""
+          }
+        },
+        "template--16335886844079__05dbc82e-1405-47e9-82ea-52629a3d0bc6-tab-3": {
+          "type": "tab",
+          "settings": {
+            "tab_label": "Warranty",
+            "icon": "lock",
+            "text": "",
+            "text_columns": "1",
+            "page": ""
+          }
+        },
+        "2e2d6228-b6b2-42a2-94ae-ab5b8bd8bccd": {
+          "type": "tab",
+          "settings": {
+            "tab_label": "In-store Pickup Instructions",
+            "icon": "map_pin",
+            "text": "",
+            "text_columns": "1",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16335886844079__05dbc82e-1405-47e9-82ea-52629a3d0bc6-tab-1",
+        "template--16335886844079__05dbc82e-1405-47e9-82ea-52629a3d0bc6-tab-2",
+        "template--16335886844079__05dbc82e-1405-47e9-82ea-52629a3d0bc6-tab-3",
+        "2e2d6228-b6b2-42a2-94ae-ab5b8bd8bccd"
+      ],
+      "settings": {
+        "heading": "",
+        "description": "",
+        "text_width": "large",
+        "tab_alignment": "center",
+        "text_alignment": "center",
+        "color_bg": "#0f0f10",
+        "color_tabs": "#8cc947",
+        "color_text": "#ffffff",
+        "color_border": "#e2e2e2",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "165218968641d20354": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "16521896868136c131-1": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_size": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "16521896868136c131-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/three-golf-clubs-on-green.jpg",
+        "desktop_height": "desktop-height-450",
+        "mobile_height": "mobile-height-500",
+        "content_position": "middle-center",
+        "text_alignment": "center",
+        "full_width": true,
+        "overlay_opacity": 5,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You may also like",
+        "mobile_swipe": true,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "main-product",
+    "058a55e3-4f9f-415d-beca-0fdf115d0e90",
+    "05dbc82e-1405-47e9-82ea-52629a3d0bc6",
+    "165218968641d20354",
+    "product-recommendations"
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "sections": {
+    "image_with_text_overlay_yDwTg8": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_C3mbtD": {
+          "type": "subheading",
+          "settings": {
+            "text": "Elevate Your Experience"
+          }
+        },
+        "heading_3fikVV": {
+          "type": "heading",
+          "settings": {
+            "text": "FORM EV Minnesota",
+            "heading_size": "h3"
+          }
+        },
+        "button_46YmGW": {
+          "type": "button",
+          "settings": {
+            "button_text": "View Available inventory",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_C3mbtD",
+        "heading_3fikVV",
+        "button_46YmGW"
+      ],
+      "custom_css": [
+        ".image-with-text-overlay--content-inner h3 {color: black;}",
+        ".image-with-text-overlay--content-inner {color: black;}",
+        ".image-with-text-overlay .button {border: 1px solid #28282b;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Form_Charge_Hero_Image_Optimized.jpg",
+        "desktop_height": "desktop-height-750",
+        "mobile_height": "mobile-height-full",
+        "content_position": "top-center",
+        "text_alignment": "center",
+        "full_width": true,
+        "overlay_opacity": 0,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "spacer_DL4nmh": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 15,
+        "spacer_desktop": 0,
+        "border_separator": false,
+        "border_separator_full": false
+      }
+    },
+    "ae493f54-908e-4371-b2b6-b0521e0268b1": {
+      "type": "image-with-text",
+      "blocks": {
+        "261e1c9d-b9fd-48fd-affb-8cf1f0712463": {
+          "type": "heading",
+          "settings": {
+            "text": "Rockville, MN Showroom",
+            "heading_size": "h4"
+          }
+        },
+        "5b9a8005-6b08-46eb-8b18-b8509c338d08": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Located just outside of St. Cloud, Minnesota at the intersection of I-94 & Hwy 23. Offering a wide range of high-quality golf carts that blend rugged aesthetics with dependable performance. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "261e1c9d-b9fd-48fd-affb-8cf1f0712463",
+        "5b9a8005-6b08-46eb-8b18-b8509c338d08"
+      ],
+      "custom_css": [],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/crossing_drive_logo.jpg",
+        "use_video": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "content_position": "text-left",
+        "full_width": false,
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "76f90f32-d99b-4c82-8226-2a834c64d613": {
+      "type": "featured-collection",
+      "blocks": {
+        "3257d83e-0f22-45f0-ac80-f11ce3b10d0f": {
+          "type": "collection",
+          "settings": {
+            "collection": "showroom-specials",
+            "display_type": "grid",
+            "product_limit": 4,
+            "columns_desktop": 4,
+            "show_view_all": true,
+            "button_outline": false,
+            "mobile_swipe": true
+          }
+        }
+      },
+      "block_order": [
+        "3257d83e-0f22-45f0-ac80-f11ce3b10d0f"
+      ],
+      "custom_css": [
+        "h2 {font-size: 36px;}"
+      ],
+      "settings": {
+        "heading": "Showroom Specials",
+        "description": "",
+        "full_width": false,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "image_with_text_overlay_9p4EwN": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_fgGHY8": {
+          "type": "heading",
+          "settings": {
+            "text": "FC40",
+            "heading_size": "h1"
+          }
+        },
+        "button_W9xHmY": {
+          "type": "button",
+          "settings": {
+            "button_text": "Shop Now",
+            "button_link": "shopify:\/\/collections\/available-fc40s"
+          }
+        }
+      },
+      "block_order": [
+        "heading_fgGHY8",
+        "button_W9xHmY"
+      ],
+      "custom_css": [
+        ".image-with-text-overlay .button {background-color: #8cc947;}",
+        ".image-with-text-overlay--content-inner h3 {color: black;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/fc40garagejpg.jpg",
+        "desktop_height": "desktop-height-650",
+        "mobile_height": "mobile-height-auto",
+        "content_position": "middle-right",
+        "text_alignment": "center",
+        "full_width": true,
+        "overlay_opacity": 0,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "spacer_HkERmn": {
+      "type": "spacer",
+      "custom_css": [
+        ".spacer {background-color: #000000; \/* Replace #hexcolor with your desired color code *\/}"
+      ],
+      "settings": {
+        "spacer_mobile": 10,
+        "spacer_desktop": 10,
+        "border_separator": false,
+        "border_separator_full": true
+      }
+    },
+    "image_with_text_overlay_gpr9tN": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_bCyXB7": {
+          "type": "heading",
+          "settings": {
+            "text": "FC22",
+            "heading_size": "h1"
+          }
+        },
+        "button_VTXFKc": {
+          "type": "button",
+          "settings": {
+            "button_text": "Shop Now",
+            "button_link": "shopify:\/\/collections\/available-fc22s"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bCyXB7",
+        "button_VTXFKc"
+      ],
+      "custom_css": [
+        ".image-with-text-overlay .button {background-color: #8cc947;}",
+        ".image-with-text-overlay--content-inner h3 {color: black;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/FC22Garage.jpg",
+        "desktop_height": "desktop-height-650",
+        "mobile_height": "mobile-height-auto",
+        "content_position": "middle-left",
+        "text_alignment": "left",
+        "full_width": true,
+        "overlay_opacity": 0,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "spacer_cpLgGh": {
+      "type": "spacer",
+      "custom_css": [
+        ".spacer {background-color: #000000; \/* Replace #hexcolor with your desired color code *\/}"
+      ],
+      "settings": {
+        "spacer_mobile": 20,
+        "spacer_desktop": 20,
+        "border_separator": false,
+        "border_separator_full": true
+      }
+    },
+    "164812231521d5c57e": {
+      "type": "testimonials",
+      "blocks": {
+        "1648122315e072ed7b-0": {
+          "type": "quote",
+          "settings": {
+            "stars": "5",
+            "text": "\"Quality product from a company that cares about customers and customer service.\"",
+            "author": "Bill R.",
+            "retina": true
+          }
+        },
+        "1648122315e072ed7b-1": {
+          "type": "quote",
+          "settings": {
+            "stars": "5",
+            "text": "\"I would like to thank Ron, FORM Charge Support member, for his excellent customer support. He was very professional, helpful, and solution-driven.\"",
+            "author": "Katarzyna P.",
+            "retina": true
+          }
+        },
+        "1648122315e072ed7b-2": {
+          "type": "quote",
+          "settings": {
+            "stars": "5",
+            "text": "....the level of customer service exhibited by Ron is second to none! Very knowledgable and I knew immediately he cared about the product and my questions and experience.\"",
+            "author": "Daniel F.",
+            "retina": true
+          }
+        }
+      },
+      "block_order": [
+        "1648122315e072ed7b-0",
+        "1648122315e072ed7b-1",
+        "1648122315e072ed7b-2"
+      ],
+      "custom_css": [
+        "h2 {font-size: 36px;}"
+      ],
+      "settings": {
+        "heading": "Testimonials",
+        "description": "",
+        "size": "small",
+        "autoplay": true,
+        "autoplay_length": 10,
+        "color_bg": "#000000",
+        "color_text": "#ffffff",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": true
+      }
+    },
+    "efa26f83-34af-49de-b996-be84d3474264": {
+      "type": "spacer",
+      "custom_css": [
+        ".spacer {background-color: #000000; \/* Replace #hexcolor with your desired color code *\/}"
+      ],
+      "settings": {
+        "spacer_mobile": 20,
+        "spacer_desktop": 20,
+        "border_separator": false,
+        "border_separator_full": true
+      }
+    },
+    "781e4688-2ee4-46dd-af23-cc9894eb25bd": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "{background-color: #000000;}"
+      ],
+      "settings": {
+        "custom_liquid": "<center><iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d2792.4221006506664!2d-94.1552327228857!3d45.58205877107623!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b45dc9c1d40001%3A0x88b377c49525a111!2sFORM%20EV!5e0!3m2!1sen!2sus!4v1703604651805!5m2!1sen!2sus\" width=\"800\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe><\/center>"
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_yDwTg8",
+    "spacer_DL4nmh",
+    "ae493f54-908e-4371-b2b6-b0521e0268b1",
+    "76f90f32-d99b-4c82-8226-2a834c64d613",
+    "image_with_text_overlay_9p4EwN",
+    "spacer_HkERmn",
+    "image_with_text_overlay_gpr9tN",
+    "spacer_cpLgGh",
+    "164812231521d5c57e",
+    "efa26f83-34af-49de-b996-be84d3474264",
+    "781e4688-2ee4-46dd-af23-cc9894eb25bd"
+  ]
+}

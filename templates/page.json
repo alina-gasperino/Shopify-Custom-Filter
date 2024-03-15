@@ -1,0 +1,52 @@
+{
+  "sections": {
+    "template-header": {
+      "type": "template-header",
+      "settings": {
+        "full_width": false,
+        "overlay_opacity": 30,
+        "show_subcollections": true,
+        "display_description": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {}
+    },
+    "f11f1ccc-4505-4cbb-af25-ba4f63b6a073": {
+      "type": "contact-form",
+      "blocks": {
+        "template--16299617583279__f11f1ccc-4505-4cbb-af25-ba4f63b6a073-text-1": {
+          "type": "text",
+          "settings": {
+            "heading": "FORM EV Minnesota",
+            "text": "<p>940 Industrial Drive S, Suite 107 Sauk Rapids, Minnesota 56379<\/p>"
+          }
+        },
+        "template--16299617583279__f11f1ccc-4505-4cbb-af25-ba4f63b6a073-text-2": {
+          "type": "text",
+          "settings": {
+            "heading": "Phone:",
+            "text": "<p>#<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16299617583279__f11f1ccc-4505-4cbb-af25-ba4f63b6a073-text-1",
+        "template--16299617583279__f11f1ccc-4505-4cbb-af25-ba4f63b6a073-text-2"
+      ],
+      "settings": {
+        "heading": "Contact Us",
+        "description": "",
+        "show_phone_number": true,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    }
+  },
+  "order": [
+    "template-header",
+    "main",
+    "f11f1ccc-4505-4cbb-af25-ba4f63b6a073"
+  ]
+}

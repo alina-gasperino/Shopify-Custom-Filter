@@ -1,0 +1,52 @@
+{
+  "sections": {
+    "acae1422-8126-4304-aa56-6eef05930705": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {}
+    },
+    "breadcrumbs": {
+      "type": "breadcrumbs",
+      "settings": {}
+    },
+    "template-header": {
+      "type": "template-header",
+      "settings": {
+        "full_width": true,
+        "overlay_opacity": 30,
+        "show_subcollections": true,
+        "display_description": true
+      }
+    },
+    "b519e230-4fb9-4657-9653-bbac4ebc45c4": {
+      "type": "spacer",
+      "settings": {
+        "spacer_mobile": 50,
+        "spacer_desktop": 100,
+        "border_separator": false,
+        "border_separator_full": false
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 12,
+        "columns_desktop": 4,
+        "pagination_type": "paginated",
+        "full_width": false,
+        "enable_filtering": true,
+        "enable_sorting": true,
+        "show_counts": true,
+        "filter_color_swatches": true
+      }
+    }
+  },
+  "order": [
+    "acae1422-8126-4304-aa56-6eef05930705",
+    "breadcrumbs",
+    "template-header",
+    "b519e230-4fb9-4657-9653-bbac4ebc45c4",
+    "product-grid"
+  ],
+  "wrapper": ".boost-sd__product-filter-fallback"
+}

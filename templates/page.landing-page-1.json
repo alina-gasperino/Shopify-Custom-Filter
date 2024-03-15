@@ -1,0 +1,492 @@
+{
+  "sections": {
+    "template-header": {
+      "type": "template-header",
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "overlay_opacity": 30,
+        "show_subcollections": true,
+        "display_description": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "d9012ebd-6faf-43ce-a7c8-c1f1f318158e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16388878729391__d9012ebd-6faf-43ce-a7c8-c1f1f318158e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Elevate Your Business",
+            "size": "h4"
+          }
+        },
+        "heading_BYJqkt": {
+          "type": "heading",
+          "settings": {
+            "text": "With a 2-Week Free Rental of a Decked Out Golf Cart",
+            "size": "h4"
+          }
+        },
+        "subheading_EiWbKU": {
+          "type": "subheading",
+          "settings": {
+            "text": "-Including free delivery & pickup"
+          }
+        },
+        "subheading_izVaxL": {
+          "type": "subheading",
+          "settings": {
+            "text": "Within 20 miles of st. cloud"
+          }
+        }
+      },
+      "block_order": [
+        "template--16388878729391__d9012ebd-6faf-43ce-a7c8-c1f1f318158e-heading-1",
+        "heading_BYJqkt",
+        "subheading_EiWbKU",
+        "subheading_izVaxL"
+      ],
+      "settings": {
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "image_with_text_slideshow_mYxcPc": {
+      "type": "image-with-text-slideshow",
+      "blocks": {
+        "slide_DhLmff": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Form_Charge_Hero_Image_Optimized.jpg",
+            "heading": "Exclusive Offer",
+            "content": "Business Owners Within 20 Miles of St. Cloud\n1. Choose your golf cart model\n2. Enter your business contact information\n3. Reserve your drop-off date",
+            "button_text": "Book Now",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_DhLmff"
+      ],
+      "custom_css": [
+        ".image-with-text-slideshow .button {background-color: #8cc947;}"
+      ],
+      "settings": {
+        "mobile_height": "mobile-height-350",
+        "desktop_height": "desktop-height-450",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "content_position": "middle-left",
+        "full_width": false,
+        "autoplay": true,
+        "autoplay_length": 5,
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "rich_text_WUc7Tb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8TULXi": {
+          "type": "heading",
+          "settings": {
+            "text": "Exclusive Offer for our Business Neighbors Within 20 Miles of St. Cloud",
+            "size": "h5"
+          }
+        },
+        "heading_FxTqCC": {
+          "type": "heading",
+          "settings": {
+            "text": "No Obligations or Commitments",
+            "size": "h5"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8TULXi",
+        "heading_FxTqCC"
+      ],
+      "custom_css": [
+        "{background-color: black; color: white;}",
+        ".h5 {color: white;}"
+      ],
+      "settings": {
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "multicolumn_6XwReR": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ixbFTy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-david-mcbee-395537.jpg",
+            "title": "Dealers",
+            "heading_size": "h4",
+            "text": "<p>Elevate your customer's buying experience with a luxurious tour of your outdoor inventory. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_A4jnRK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DB5cHz0VYAA2ywM.jpg",
+            "title": "Construction Owners",
+            "heading_size": "h4",
+            "text": "<p>Elevate your golden shovel groundbreaking experience with a luxurious job site tour or use for daily General Contractor Inspections<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_anMJwY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-imad-clicks-14504291.jpg",
+            "title": "Hospitality Experts",
+            "heading_size": "h4",
+            "text": "<p>Offer your guests a 5-star experience, especially those with limited walking abilities<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qYjA37": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/markus-winkler-d7HpYPBAPQY-unsplash.jpg",
+            "title": "Warehouse Owners",
+            "heading_size": "h4",
+            "text": "<p>Quickly get across your yard from building to building<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DV6KNp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-pixabay-257636.jpg",
+            "title": "Manufacturers",
+            "heading_size": "h4",
+            "text": "<p>Quickly get around your plant floor<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_B7XGyV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/scott-blake-x-ghf9LjrVg-unsplash.jpg",
+            "title": "Property Managers",
+            "heading_size": "h4",
+            "text": "<p>Efficiently & easily inspect every inch of your property<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_ixbFTy",
+        "column_A4jnRK",
+        "column_anMJwY",
+        "column_qYjA37",
+        "column_DV6KNp",
+        "column_B7XGyV"
+      ],
+      "settings": {
+        "heading": "",
+        "description": "",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "mobile_swipe": false,
+        "text_alignment": "center",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": true
+      }
+    },
+    "rich_text_rLbpGK": {
+      "type": "rich-text",
+      "blocks": {
+        "button_mgWVYk": {
+          "type": "button",
+          "settings": {
+            "link_label": "Yes I Want to Book a Free 2-Week Golf Cart Rental",
+            "link": "",
+            "button_outline": false
+          }
+        }
+      },
+      "block_order": [
+        "button_mgWVYk"
+      ],
+      "custom_css": [
+        ".rich-text .button {background-color: #8cc947;}"
+      ],
+      "settings": {
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "disable_top_spacing": true,
+        "disable_bottom_spacing": false
+      }
+    },
+    "image_with_text_zXU4FX": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_i9Hh6T": {
+          "type": "heading",
+          "settings": {
+            "text": "Why Are We Doing This?",
+            "heading_size": "h4"
+          }
+        },
+        "text_C64ph8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are celebrating the opening of our new FORM EV Minnesota golf cart showroom just off I-94 in Rockville and we would like to get to know our St. Cloud Area business neighbors!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_i9Hh6T",
+        "text_C64ph8"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/crossing_drive_logo.jpg",
+        "use_video": false,
+        "video": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_autoplay": true,
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "content_position": "text-left",
+        "full_width": false,
+        "color_bg": "#eeeeee",
+        "color_text": "#000000",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "rich_text_z4qeB8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_B6jEe8": {
+          "type": "heading",
+          "settings": {
+            "text": "Here's Everything You’re Getting",
+            "size": "h4"
+          }
+        },
+        "heading_dmgtKK": {
+          "type": "heading",
+          "settings": {
+            "text": "When You Book Today…",
+            "size": "h4"
+          }
+        },
+        "text_CEfezz": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>2 Week Rental of a Decked-out Lithium Golf Cart <strong>($1,399 Value)<\/strong><\/li><li>Business Hassle-Free Delivery <strong>($99 Value)<\/strong><\/li><li>Business Hassle-Free Pickup <strong>($99 Value)<\/strong><\/li><li>Golf Cart Instructions & Training During Dropoff <strong>($30 Value) <\/strong><\/li><\/ul>",
+            "size": "text-size-regular"
+          }
+        }
+      },
+      "block_order": [
+        "heading_B6jEe8",
+        "heading_dmgtKK",
+        "text_CEfezz"
+      ],
+      "settings": {
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "left",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "rich_text_MpJc9j": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Cm69JM": {
+          "type": "heading",
+          "settings": {
+            "text": "Total Value: $1,627.00",
+            "size": "h5"
+          }
+        },
+        "heading_TtL4np": {
+          "type": "heading",
+          "settings": {
+            "text": "Get It All Right Now",
+            "size": "h5"
+          }
+        },
+        "heading_ma9ewJ": {
+          "type": "heading",
+          "settings": {
+            "text": "FOR FREE!",
+            "size": "h3"
+          }
+        },
+        "button_F4fFM9": {
+          "type": "button",
+          "settings": {
+            "link_label": "Yes I Want to Book a Free 2-Week Golf Cart Rental",
+            "link": "",
+            "button_outline": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Cm69JM",
+        "heading_TtL4np",
+        "heading_ma9ewJ",
+        "button_F4fFM9"
+      ],
+      "custom_css": [
+        ".rich-text .button {background-color: #8cc947;}"
+      ],
+      "settings": {
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "ss_grid_pro_mJnVmE": {
+      "type": "ss-grid-pro",
+      "blocks": {
+        "item_zrbACK": {
+          "type": "item",
+          "settings": {
+            "column_width": 2,
+            "row_width": 2,
+            "bg_type": "image",
+            "image": "shopify:\/\/shop_images\/Final-cart-small_copy.jpg",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "media_row": false,
+            "align_content": "end",
+            "align_content_mobile": "end",
+            "url": "",
+            "sub_heading": "",
+            "heading": "",
+            "title_size": 36,
+            "title_size_mobile": 24,
+            "block_bg_color": "#f3f3f3",
+            "block_border_color": "#000000",
+            "override_colors": false,
+            "block_text_color": "#ffffff",
+            "remove_overlay": true
+          }
+        },
+        "item_t4Fyzg": {
+          "type": "item",
+          "settings": {
+            "column_width": 2,
+            "row_width": 2,
+            "bg_type": "image",
+            "image": "shopify:\/\/shop_images\/Final-cart_1_copy.jpg",
+            "video_url": "",
+            "media_row": false,
+            "align_content": "end",
+            "align_content_mobile": "end",
+            "url": "",
+            "sub_heading": "",
+            "heading": "",
+            "title_size": 36,
+            "title_size_mobile": 24,
+            "block_bg_color": "#f3f3f3",
+            "block_border_color": "#000000",
+            "override_colors": false,
+            "block_text_color": "#ffffff",
+            "remove_overlay": true
+          }
+        }
+      },
+      "block_order": [
+        "item_zrbACK",
+        "item_t4Fyzg"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_size_mobile": 30,
+        "heading_height": 150,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "items_gap": 20,
+        "items_gap_mobile": 20,
+        "items_mt": 16,
+        "row_height": 300,
+        "row_height_mobile": 200,
+        "block_padding_vertical": 20,
+        "block_padding_vertical_mobile": 20,
+        "block_padding_horizontal": 16,
+        "block_padding_horizontal_mobile": 16,
+        "block_radius": 8,
+        "block_border_thickness": 0,
+        "block_overlay": 0.2,
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_height": 130,
+        "title_mt": 4,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 16,
+        "text_size_mobile": 16,
+        "text_height": 130,
+        "arrow_size_mobile": 48,
+        "arrow_size": 48,
+        "action_size_mobile": 60,
+        "action_size": 60,
+        "title_color": "#ffffff",
+        "text_color": "#ffffff",
+        "arrow_color": "#ffffff",
+        "action_bg_color": "#ffffff",
+        "action_arrow_color": "#000000",
+        "heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 160,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    }
+  },
+  "order": [
+    "template-header",
+    "main",
+    "d9012ebd-6faf-43ce-a7c8-c1f1f318158e",
+    "image_with_text_slideshow_mYxcPc",
+    "rich_text_WUc7Tb",
+    "multicolumn_6XwReR",
+    "rich_text_rLbpGK",
+    "image_with_text_zXU4FX",
+    "rich_text_z4qeB8",
+    "rich_text_MpJc9j",
+    "ss_grid_pro_mJnVmE"
+  ]
+}

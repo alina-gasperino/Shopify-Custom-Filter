@@ -1,0 +1,52 @@
+{
+  "sections": {
+    "1652268757b7c53383": {
+      "type": "contact-form",
+      "blocks": {
+        "165226875777ee1cd4-0": {
+          "type": "text",
+          "settings": {
+            "heading": "Hours",
+            "text": "<p>Monday - Friday: 9am - 4:30pm<br\/>Saturday: Closed<br\/>Sunday: Closed<\/p>"
+          }
+        },
+        "text_VCwyYf": {
+          "type": "text",
+          "settings": {
+            "heading": "Phone",
+            "text": "<p>320-300-5544<\/p>"
+          }
+        },
+        "text_fRaHUw": {
+          "type": "text",
+          "settings": {
+            "heading": "Address",
+            "text": "<p>8712 Crossing Dr.<br\/>Rockville, MN 56369<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "165226875777ee1cd4-0",
+        "text_VCwyYf",
+        "text_fRaHUw"
+      ],
+      "settings": {
+        "heading": "Contact Us",
+        "description": "",
+        "show_phone_number": true,
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "custom_liquid_46R8L3": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<center><iframe loading=\"lazy\" style=\"border: 0;\" height=\"450\" width=\"800\" src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d2792.4219139121233!2d-94.15523272384613!3d45.582062525567096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b46097fd18fb75%3A0x1f7ccf1b541e5f21!2s940%20Industrial%20Dr%20S%2C%20Sauk%20Rapids%2C%20MN%2056379!5e0!3m2!1sen!2sus!4v1703604796251!5m2!1sen!2sus\" referrerpolicy=\"no-referrer-when-downgrade\" allowfullscreen=\"\"><\/iframe>\n<\/center>"
+      }
+    }
+  },
+  "order": [
+    "1652268757b7c53383",
+    "custom_liquid_46R8L3"
+  ]
+}

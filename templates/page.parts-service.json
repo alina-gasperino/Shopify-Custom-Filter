@@ -1,0 +1,62 @@
+{
+  "sections": {
+    "template-header": {
+      "type": "template-header",
+      "settings": {
+        "full_width": false,
+        "overlay_opacity": 30,
+        "show_subcollections": true,
+        "display_description": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "multicolumn_K3yhb7": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3HATkx": {
+          "type": "column",
+          "settings": {
+            "title": "We’ve Got You Covered",
+            "heading_size": "h4",
+            "text": "<p>When you purchase a FORM EV, you’re not just getting the best-made electric golf cart available today. You’re also getting full backing and support from our team of experienced professionals paired with an industry-leading 2 year or 1,500-mile warranty (whichever comes first)<br\/><br\/>When it comes to upkeep, maintenance, and repair, we are your go-to resource for supplies of original parts for all our models. Give us a call today or email us and we will match you quickly with quality replacement parts and service advice.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_bKMqCF": {
+          "type": "column",
+          "settings": {
+            "title": "Schedule Service",
+            "heading_size": "h4",
+            "text": "<p>Please call 320-300-5544 to schedule a service appointment.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_3HATkx",
+        "column_bKMqCF"
+      ],
+      "settings": {
+        "heading": "",
+        "description": "",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "mobile_swipe": false,
+        "text_alignment": "center",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    }
+  },
+  "order": [
+    "template-header",
+    "main",
+    "multicolumn_K3yhb7"
+  ]
+}

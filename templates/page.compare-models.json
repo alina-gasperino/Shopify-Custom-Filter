@@ -1,0 +1,447 @@
+{
+  "sections": {
+    "template-header": {
+      "type": "template-header",
+      "settings": {
+        "full_width": false,
+        "overlay_opacity": 30,
+        "show_subcollections": true,
+        "display_description": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {}
+    },
+    "ss_comparison_table_2_AMNJxE": {
+      "type": "ss-comparison-table-2",
+      "blocks": {
+        "item_gVUfp9": {
+          "type": "item",
+          "settings": {
+            "row_heading": "",
+            "first_icon": "yes",
+            "second_icon": "yes",
+            "third_icon": "yes"
+          }
+        },
+        "item_LLDcXG": {
+          "type": "item",
+          "settings": {
+            "row_heading": "",
+            "first_icon": "yes",
+            "second_icon": "yes",
+            "third_icon": "yes"
+          }
+        },
+        "item_iVVkg8": {
+          "type": "item",
+          "settings": {
+            "row_heading": "First Value",
+            "first_icon": "yes",
+            "second_icon": "yes",
+            "third_icon": "yes"
+          }
+        },
+        "item_BiWyh9": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Second Value",
+            "first_icon": "yes",
+            "second_icon": "yes",
+            "third_icon": "yes"
+          }
+        },
+        "item_WN6QEb": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Third Value",
+            "first_icon": "yes",
+            "second_icon": "yes",
+            "third_icon": "no"
+          }
+        },
+        "item_JMeBJJ": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Four Value",
+            "first_icon": "yes",
+            "second_icon": "no",
+            "third_icon": "no"
+          }
+        },
+        "item_76t9nW": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Five Value",
+            "first_icon": "yes",
+            "second_icon": "no",
+            "third_icon": "no"
+          }
+        },
+        "item_wG6hci": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Six Value",
+            "first_icon": "yes",
+            "second_icon": "no",
+            "third_icon": "no"
+          }
+        },
+        "item_DDHwcq": {
+          "type": "item",
+          "settings": {
+            "row_heading": "Seven Value",
+            "first_icon": "yes",
+            "second_icon": "yes",
+            "third_icon": "dont_know"
+          }
+        }
+      },
+      "block_order": [
+        "item_gVUfp9",
+        "item_LLDcXG",
+        "item_iVVkg8",
+        "item_BiWyh9",
+        "item_WN6QEb",
+        "item_JMeBJJ",
+        "item_76t9nW",
+        "item_wG6hci",
+        "item_DDHwcq"
+      ],
+      "settings": {
+        "heading": "FC40",
+        "heading_custom": false,
+        "heading_font": "assistant_n4",
+        "heading_size": 50,
+        "heading_height": 100,
+        "heading_align": "center",
+        "table_mt": 50,
+        "table_radius": 10,
+        "table_border_thickness": 3,
+        "table_column_active": "3",
+        "table_column_active_radius": 10,
+        "first_heading": "The Ripper",
+        "second_heading": "The Bandit",
+        "third_heading": "",
+        "table_heading_custom": false,
+        "table_heading_font": "assistant_n4",
+        "table_heading_size": 24,
+        "table_heading_size_mobile": 10,
+        "table_heading_height": 100,
+        "table_heading_align": "center",
+        "table_heading_padding_horizontal": 20,
+        "table_heading_padding_horizontal_mobile": 4,
+        "table_heading_padding_vertical": 20,
+        "table_heading_padding_vertical_mobile": 10,
+        "table_row_padding_horizontal": 20,
+        "table_row_padding_horizontal_mobile": 4,
+        "table_row_padding_vertical": 20,
+        "table_row_padding_vertical_mobile": 10,
+        "table_row_heading_custom": false,
+        "table_row_heading_font": "assistant_n4",
+        "table_row_heading_size": 26,
+        "table_row_heading_size_mobile": 10,
+        "table_row_heading_height": 100,
+        "table_row_heading_align": "center",
+        "table_icon_size": 32,
+        "table_icon_size_mobile": 20,
+        "heading_color": "#162471",
+        "table_border_color": "#d7d8d5",
+        "table_heading_color": "#162471",
+        "table_heading_active_color": "#ffffff",
+        "table_column_active_bg_color": "#162471",
+        "table_row_heading_color": "#040200",
+        "table_icon_color": "#162471",
+        "table_icon_active_color": "#ffffff",
+        "background_color": "#f6f4f2",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 150,
+        "border_thickness": 0
+      }
+    },
+    "multicolumn_8EUHGa": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_LQ7yw8": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "heading_size": "h4",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qgYeF3": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "heading_size": "h4",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BNXzGj": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "heading_size": "h4",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_T44wEh": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "heading_size": "h4",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_LQ7yw8",
+        "column_qgYeF3",
+        "column_BNXzGj",
+        "column_T44wEh"
+      ],
+      "settings": {
+        "heading": "Multicolumn",
+        "description": "<p>Add a short description for this section<\/p>",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "mobile_swipe": false,
+        "text_alignment": "left",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    },
+    "ss_grid_pro_E4HpAh": {
+      "type": "ss-grid-pro",
+      "blocks": {
+        "item_LXfGht": {
+          "type": "item",
+          "settings": {
+            "column_width": 1,
+            "row_width": 1,
+            "bg_type": "background",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "media_row": false,
+            "align_content": "end",
+            "align_content_mobile": "end",
+            "url": "",
+            "sub_heading": "Subheading",
+            "heading": "Heading",
+            "title_size": 36,
+            "title_size_mobile": 24,
+            "block_bg_color": "#f3f3f3",
+            "block_border_color": "#000000",
+            "override_colors": false,
+            "block_text_color": "#ffffff",
+            "remove_overlay": false
+          }
+        },
+        "item_XtibTk": {
+          "type": "item",
+          "settings": {
+            "column_width": 2,
+            "row_width": 2,
+            "bg_type": "image",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "media_row": false,
+            "align_content": "end",
+            "align_content_mobile": "end",
+            "url": "",
+            "sub_heading": "Subheading",
+            "heading": "Heading",
+            "title_size": 36,
+            "title_size_mobile": 24,
+            "block_bg_color": "#f3f3f3",
+            "block_border_color": "#000000",
+            "override_colors": false,
+            "block_text_color": "#ffffff",
+            "remove_overlay": false
+          }
+        },
+        "item_VrCXPE": {
+          "type": "item",
+          "settings": {
+            "column_width": 1,
+            "row_width": 3,
+            "bg_type": "image",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "media_row": false,
+            "align_content": "end",
+            "align_content_mobile": "end",
+            "url": "",
+            "sub_heading": "Subheading",
+            "heading": "Heading",
+            "title_size": 36,
+            "title_size_mobile": 24,
+            "block_bg_color": "#f3f3f3",
+            "block_border_color": "#000000",
+            "override_colors": false,
+            "block_text_color": "#ffffff",
+            "remove_overlay": false
+          }
+        },
+        "item_pr6xwP": {
+          "type": "item",
+          "settings": {
+            "column_width": 4,
+            "row_width": 2,
+            "bg_type": "video",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "media_row": true,
+            "align_content": "end",
+            "align_content_mobile": "end",
+            "url": "",
+            "sub_heading": "Subheading",
+            "heading": "Heading",
+            "title_size": 36,
+            "title_size_mobile": 24,
+            "block_bg_color": "#f3f3f3",
+            "block_border_color": "#000000",
+            "override_colors": false,
+            "block_text_color": "#ffffff",
+            "remove_overlay": false
+          }
+        },
+        "item_8K49rr": {
+          "type": "item",
+          "settings": {
+            "column_width": 2,
+            "row_width": 2,
+            "bg_type": "image",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "media_row": false,
+            "align_content": "end",
+            "align_content_mobile": "end",
+            "url": "",
+            "sub_heading": "Subheading",
+            "heading": "Heading",
+            "title_size": 36,
+            "title_size_mobile": 24,
+            "block_bg_color": "#f3f3f3",
+            "block_border_color": "#000000",
+            "override_colors": false,
+            "block_text_color": "#ffffff",
+            "remove_overlay": false
+          }
+        },
+        "item_HMkKc3": {
+          "type": "item",
+          "settings": {
+            "column_width": 2,
+            "row_width": 2,
+            "bg_type": "image",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "media_row": false,
+            "align_content": "end",
+            "align_content_mobile": "end",
+            "url": "",
+            "sub_heading": "Subheading",
+            "heading": "Heading",
+            "title_size": 36,
+            "title_size_mobile": 24,
+            "block_bg_color": "#f3f3f3",
+            "block_border_color": "#000000",
+            "override_colors": false,
+            "block_text_color": "#ffffff",
+            "remove_overlay": false
+          }
+        }
+      },
+      "block_order": [
+        "item_LXfGht",
+        "item_XtibTk",
+        "item_VrCXPE",
+        "item_pr6xwP",
+        "item_8K49rr",
+        "item_HMkKc3"
+      ],
+      "settings": {
+        "heading": "<h2>Grid Pro<\/h2>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_size_mobile": 30,
+        "heading_height": 150,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "items_gap": 20,
+        "items_gap_mobile": 20,
+        "items_mt": 16,
+        "row_height": 300,
+        "row_height_mobile": 200,
+        "block_padding_vertical": 20,
+        "block_padding_vertical_mobile": 20,
+        "block_padding_horizontal": 16,
+        "block_padding_horizontal_mobile": 16,
+        "block_radius": 8,
+        "block_border_thickness": 0,
+        "block_overlay": 0.2,
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_height": 130,
+        "title_mt": 4,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 16,
+        "text_size_mobile": 16,
+        "text_height": 130,
+        "arrow_size_mobile": 48,
+        "arrow_size": 48,
+        "action_size_mobile": 60,
+        "action_size": 60,
+        "title_color": "#ffffff",
+        "text_color": "#ffffff",
+        "arrow_color": "#ffffff",
+        "action_bg_color": "#ffffff",
+        "action_arrow_color": "#000000",
+        "heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 160,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "custom_liquid_KY4Rw8": {
+      "type": "custom-liquid",
+      "custom_css": [],
+      "settings": {
+        "custom_liquid": ""
+      }
+    }
+  },
+  "order": [
+    "template-header",
+    "main",
+    "ss_comparison_table_2_AMNJxE",
+    "multicolumn_8EUHGa",
+    "ss_grid_pro_E4HpAh",
+    "custom_liquid_KY4Rw8"
+  ]
+}
