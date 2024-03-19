@@ -61,14 +61,14 @@
         "261e1c9d-b9fd-48fd-affb-8cf1f0712463": {
           "type": "heading",
           "settings": {
-            "text": "Rockville, MN Showroom",
+            "text": "St. Joseph, MN Showroom",
             "heading_size": "h4"
           }
         },
         "5b9a8005-6b08-46eb-8b18-b8509c338d08": {
           "type": "text",
           "settings": {
-            "text": "<p>Located just outside of St. Cloud, Minnesota at the intersection of I-94 & Hwy 23. Offering a wide range of high-quality golf carts that blend rugged aesthetics with dependable performance. <\/p>"
+            "text": "<p>Located in the St Joesph Industrial Park. Offering a wide range of high-quality golf carts that blend rugged aesthetics with dependable performance. <\/p>"
           }
         }
       },
@@ -146,7 +146,7 @@
         "button_W9xHmY"
       ],
       "custom_css": [
-        ".image-with-text-overlay .button {background-color: #8cc947;}",
+        ".image-with-text-overlay .button {background-color: #98d801;}",
         ".image-with-text-overlay--content-inner h3 {color: black;}"
       ],
       "settings": {
@@ -196,7 +196,7 @@
         "button_VTXFKc"
       ],
       "custom_css": [
-        ".image-with-text-overlay .button {background-color: #8cc947;}",
+        ".image-with-text-overlay .button {background-color: #98d801;}",
         ".image-with-text-overlay--content-inner h3 {color: black;}"
       ],
       "settings": {

@@ -79,14 +79,17 @@
 <body class="animations-{{ settings.animations }} button-uppercase-{{ settings.button_uppercase }} navigation-uppercase-{{ settings.navigation_uppercase }} product-title-uppercase-{{ settings.product_title_uppercase }} {% if customer %} customer-logged-in{% endif %} template-{{ template | replace: '.', ' ' | truncatewords: 1, '' | handle }} template-{{ template | replace: '.', '-' | handle }}">
 	<a class="screen-reader-shortcut" href="#main-content">{{ 'accessibility.skip_to_text' | t }}</a>
 	<div id="wrapper">
-		{% sections 'header-group' %}
+	
+      {% sections 'header-group' %}
 		<div role="main" id="main-content">
 			{{ content_for_layout }}
 		</div>
+      
 		{% sections 'footer-group' %}
 		{% render 'cart-drawer' %}
 		{% render 'product-drawer' %}
 		<div class="click-capture"></div>
+    
 	</div>
 
 	{{ 'vendor.min.js' | asset_url | script_tag }}

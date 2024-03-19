@@ -214,32 +214,6 @@
         "disable_bottom_spacing": false
       }
     },
-    "165218968641d20354": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "16521896868136c131-1": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_size": "h3"
-          }
-        }
-      },
-      "block_order": [
-        "16521896868136c131-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/three-golf-clubs-on-green.jpg",
-        "desktop_height": "desktop-height-450",
-        "mobile_height": "mobile-height-500",
-        "content_position": "middle-center",
-        "text_alignment": "center",
-        "full_width": true,
-        "overlay_opacity": 5,
-        "disable_top_spacing": true,
-        "disable_bottom_spacing": true
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -255,7 +229,6 @@
     "main-product",
     "058a55e3-4f9f-415d-beca-0fdf115d0e90",
     "05dbc82e-1405-47e9-82ea-52629a3d0bc6",
-    "165218968641d20354",
     "product-recommendations"
   ]
 }

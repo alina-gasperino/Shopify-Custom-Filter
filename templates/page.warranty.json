@@ -1,0 +1,54 @@
+{
+  "sections": {
+    "template-header": {
+      "type": "template-header",
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "overlay_opacity": 30,
+        "show_subcollections": true,
+        "display_description": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "rich_text_MTXcUQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EgDFXd": {
+          "type": "heading",
+          "settings": {
+            "text": "FORM EV Limited Warranty",
+            "size": "h3"
+          }
+        },
+        "text_wnXWDX": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Scope and Coverage<\/strong><\/p><p>Venture Formations LLC (“FORM EV”) hereby warrants to the original retail registered purchaser of any FORM EV electric vehicle sold by a duly authorized FORM EV dealer that the materials and components of a new FORM EV will be free from defects in material and workmanship, under normal use and service, for a period defined below from purchase date:<\/p><p><span style=\"text-decoration:underline\"><strong>VEHICLE WARRANTY PERIOD<\/strong><\/span><\/p><ul><li><strong>Overall Components and Parts including Electrical Components<\/strong><\/li><li><strong> 2 - Year Limited Warranty<\/strong><\/li><li><strong>Lithium Battery<\/strong><\/li><li><strong> 5 - Year Limited Warranty<\/strong><\/li><\/ul><p><strong>Certified Technician Requirement<\/strong><\/p><p>All warranty evaluations and replacements must be performed by a certified technician. This warranty will cover the replacement (at FORM EV’s option) of all defective parts manufactured by FORM EV. It does not cover any aftermarket accessories even if installed by FORM EV. All parts replaced under warranty become the property of FORM EV.<\/p><p><strong>Labor and Transport<\/strong><\/p><p>Labor costs associated with the replacement of warrantied parts performed by a FORM Authorized Dealer are covered under the terms of this warranty for a period of 2 years. FORM EV will not cover any expenses incurred in transporting the vehicle to an authorized dealer or technician for warranty service.<\/p><p><strong>Maintenance and Return Policy<\/strong><\/p><p>The original purchaser must operate and maintain the vehicle in accordance with the owner's manual and must return the vehicle to the original dealer within 10 days of discovering any defects for evaluation and repairs.<\/p><p><strong>General Exclusions<\/strong><\/p><p>This warranty does not cover any damage or failure resulting from:<\/p><ul><li>Neglect, abuse, or improper maintenance.<\/li><li>Collision<\/li><li>Racing, jumping, or stunt driving.<\/li><li>Use of the vehicle in a commercial operation or as part of a rental service.<\/li><li>Routine maintenance items, normal wear & tear, cosmetic deterioration, or electrical components damaged as a result of fluctuations in electrical current<\/li><li>Warranty repairs made by unauthorized FORM EV dealers shall void the Limited Warranty<\/li><li>Damage or loss resulting from acts of nature, weather events, vandalism, theft, war, or other circumstances over which FORM EV has no control<\/li><\/ul><p><strong>Special Exclusions<\/strong><\/p><p>Items subject to normal wear and tear are not covered by this warranty. These items include, but are not limited to, tires, bearings, brakes, throttle cables, light bulbs, windshield and cosmetic components.<\/p><p><strong>Legal Limitations and Disclaimer<\/strong><\/p><ul><li>IN NO EVENT SHALL FORM EV BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES.<\/li><li>Any claim against this warranty must be made within 90 days from the date the warranty claim arises.<\/li><li>This warranty is the sole warranty provided by FORM EV and replaces all other warranties, either expressed or implied.<\/li><\/ul><p><strong>Warning<\/strong><\/p><p>Any modification to the vehicle that alters its weight distribution, speed, or battery output will void this warranty and could result in property damage or personal injury. Do not make any modifications or changes. Such modifications or changes will void the limited warranty. <\/p><p><strong>Non-Transferable<\/strong><\/p><p>This warranty is to the original owner only and is not transferable<\/p><p> <\/p><p><strong>Liability Limitations:<\/strong> Under no circumstances will FORM EV be held accountable for any indirect, secondary, extraordinary, punitive, or resulting damages. This includes, but is not limited to, situations involving death, personal injuries, or property damage that occur due to any perceived failure of a vehicle or battery charger. It also encompasses any harm or loss experienced by the buyer or any third party, including lost time, inconvenience, or financial losses, regardless of whether Icon had prior knowledge of the possibility of such damages occurring. If the basic solutions of repair or replacement of the vehicle are ineffective, the buyer's sole recourse is to seek damages, but only within the boundaries outlined in this section. Both parties agree that this alternate course of action remains valid, even if the primary remedies of repair or replacement prove inadequate. Legal proceedings alleging a breach of this warranty must commence within three months from when the issue covered by the warranty arises. This limited warranty grants you certain legal protections, and you might have additional rights based on your jurisdiction. Please note that some states do not permit the exclusion of incidental damages or restrictions on the duration of implied warranties, so the above limitations might not be applicable to you.<\/p><h4><strong>REMEDY<\/strong><\/h4><p>The sole remedy under this warranty and FORM EV is the obligation in the event of a defect in the vehicle\/battery chargers is that FORM EV will, at its sole option, repair or replace any defective parts. This remedy precludes all other remedies including any lawsuits, claims or other proceedings alleging strict liability, negligence of contract or any cause of action. FORM EV reserves the right to improve or change the design of any FORM EV vehicle or battery charger without assuming any responsibility to modify previously manufactured vehicles.<\/p><h4><strong>VOIDING OF WARRANTY<\/strong><\/h4><p>This, and any other warranty, shall be void if: (1) the vehicle or battery charger is abused or otherwise not used in its intended manner; (2) if it is in an accident or collision;(3) it shows indications that the speed setting was adjusted or modified allowing the vehicle to operate beyond specifications, including but not limited to alterations to the braking system, electrical system, steering or other operating systems of the vehicle or shows indication that routine maintenance was not performed when and in the manner specified in the FORM EV maintenance and service publications or owner’s manual. This warranty shall be void with respect to any defect or damage caused by or as a result of or related to parts or accessories which are not manufactured or authorized by FORM EV, or were not installed per FORM EV instructions, or were covered by another manufacturer warranty, whether expired or not.<\/p>",
+            "size": "text-size-regular"
+          }
+        }
+      },
+      "block_order": [
+        "heading_EgDFXd",
+        "text_wnXWDX"
+      ],
+      "settings": {
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "disable_top_spacing": false,
+        "disable_bottom_spacing": false
+      }
+    }
+  },
+  "order": [
+    "template-header",
+    "main",
+    "rich_text_MTXcUQ"
+  ]
+}
